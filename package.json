@@ -1,8 +1,8 @@
 {
-  "name": "reactfoliobs4_akj",
-  "homepage": "https://akjha96.github.io/ReactifolioBs4_Akj",
+  "name": "limam",
   "version": "1.0.0",
   "private": true,
+ 
   "dependencies": {
     "@merc/react-timeline": "^0.1.42",
     "@testing-library/jest-dom": "^4.2.4",
@@ -21,6 +21,7 @@
     "styled-components": "^5.1.1",
     "typewriter-effect": "^2.13.1"
   },
+  "devDependencies": {},
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -43,6 +44,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {}
+  }
 }
