@@ -104,7 +104,7 @@ téléphone, email et service, date embauche ,etc…) des agents dans la base de
           </ImageEvent>
 
           {/* Project: Smart Brain */}
-          <ImageEvent date="01/12/2019" className="text-center" text="Smart Brain Face Detect app" src={L_SmartBrain} alt="Smart Brain Face Detect">
+          <ImageEvent date="01/12/2019" className="text-center" text="GESTION DES ÉTUDIANT EST ESSAOUIRA" src={L_SmartBrain} alt="Smart Brain Face Detect">
             <div className="d-flex justify-content-between flex-column mt-1">
               <div>
                 <Accordion>
